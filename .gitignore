@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+dummy_data.csv
+tree.png
+decision_tree.png
